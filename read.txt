@@ -1,0 +1,3 @@
+venv\scripts\activate.bat
+
+when it not have the ven
